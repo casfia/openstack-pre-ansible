@@ -1,0 +1,12 @@
+:1     localhost ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+192.168.26.1 controller1
+192.168.26.2 controller2
+192.168.26.10 compute-1
+192.168.26.11 compute-2
+192.168.26.12 compute-3
+192.168.26.13 compute-4
+192.168.26.14 compute-5
